@@ -257,12 +257,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"CubeQ","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CubeW","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CubeE","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CubeR","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"CubeQ","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CubeW","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CubeE","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CubeR","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CubeT","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 516176470}
     - {fileID: 2105135484}
     - {fileID: 1330362747}
     - {fileID: 1942504690}
+    - {fileID: 765265954}
 --- !u!4 &591565113
 Transform:
   m_ObjectHideFlags: 0
