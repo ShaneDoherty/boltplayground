@@ -890,8 +890,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"ChangeMaterial","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 2100000, guid: 35707a2e86b264ebebf88d527d68b1cc, type: 2}
 --- !u!4 &1582292290
 Transform:
   m_ObjectHideFlags: 0
@@ -956,7 +957,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b113591662f8343cea16f9cc9909f16a, type: 2}
+  - {fileID: 2100000, guid: 35707a2e86b264ebebf88d527d68b1cc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
