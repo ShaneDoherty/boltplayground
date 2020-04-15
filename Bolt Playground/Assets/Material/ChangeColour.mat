@@ -73,5 +73,9 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+<<<<<<< HEAD
     - _Color: {r: 0.3889572, g: 0.059726715, b: 0.5438252, a: 1}
+=======
+    - _Color: {r: 0.8885294, g: 0.8809267, b: 0.999529, a: 1}
+>>>>>>> parent of af53d56... Update ChangeColour.mat
     - _EmissionColor: {r: 0.37892914, g: 0.37892914, b: 0.37892914, a: 1}
